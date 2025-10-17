@@ -1,6 +1,6 @@
-# liferay-course-inventory
+# liferay-commerce-courses-baseline
 
-This repository contains the Mastering Inventory Management with Liferay course materials.
+This repository contains the baseline for the Commerce Courses
 
 ## Table of Contents
 
